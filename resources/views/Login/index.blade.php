@@ -7,7 +7,7 @@
             {{-- untuk form --}}
             <form class="p-4">
                 <div class="font-bold text-[52px]">
-                    aktifitas
+                    Daily Activity
                 </div>
                 <div class="font-thin text-[18px] mb-5">
                     This website helps agents efficiently fill in their shift reports.
